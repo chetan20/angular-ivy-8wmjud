@@ -169,12 +169,6 @@ import { MatTreeModule } from '@angular/material/tree';
     PortalModule,
 
     ScrollingModule,
-
-    FlexLayoutModule,
-
-    MatSelectFilterModule,
-
-    MatMomentDateModule,
   ],
 })
 export class AppMaterialModule {}
