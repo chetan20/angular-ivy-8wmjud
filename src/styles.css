@@ -1,2 +1,16 @@
-body{margin:0px; padding:0px; font-family:arial; }
-.heading_div{width: 100%; padding:0 0 0 10px; background: #ccc;  margin:0px; height: 30px; line-height: 30px;}
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: arial;
+}
+.heading_div {
+  width: 100%;
+  padding: 0 0 0 10px;
+  background: #ccc;
+  margin: 0px;
+  height: 30px;
+  line-height: 30px;
+}
+.graybox {
+  background-color: #ddd;
+}
